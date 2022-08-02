@@ -1,0 +1,27 @@
+
+Key Determination
++ Multiple possiblities - Key Letters
+	+ Choose Key Letter based on Frequency match against english Alphabet 
+		+ draw histogram
+		+ match against english alphabet historgram
+		+ choose E for most frequent; 
+		+ check frequency of other letters;
+			+ by looking at the absolute value of least difference between the each alphabet against
+			  all the alphabets (is this chi square)?  basically?
+ 
+
+	+ Get upto to top 3 key letters (based on closeness of match)
+	+ Brute force the result
+	+ Google Translate - English Language determination
+
++ Kasiski Algorithm - Key Length
+	+ Implement GCD algo for keylength
+	+ Most of the bigrams / trigrams are divisible by function
+	+ Prime factors of the various distances
+
+
+
+
+
++ Brute force - Key Determination
++ 
